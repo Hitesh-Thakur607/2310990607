@@ -1,0 +1,33 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Production-grade logging middleware for Node.js with Bearer token authentication",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "examples": "node examples.js"
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "express",
+    "evaluation-service",
+    "bearer-token"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {},
+  "dependencies": {}
+}
